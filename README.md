@@ -1,6 +1,8 @@
 # plsRbeta
 Partial Least Squares Regression (PLS) for Beta Regression Models Use plsRbeta With (In) R Software
 
+https://www.youtube.com/watch?v=5A9-aTJtQps
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
